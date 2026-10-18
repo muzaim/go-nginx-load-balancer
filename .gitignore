@@ -1,0 +1,11 @@
+# Ignore log files generated at runtime
+logs/*.log
+!logs/.gitkeep
+
+# Compiled binaries
+server
+*.exe
+*.out
+
+# OS files
+.DS_Store
